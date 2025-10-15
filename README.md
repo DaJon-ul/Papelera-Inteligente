@@ -8,3 +8,5 @@ Cantidad / Nombre
   1        Arduino Uno
   1        Servomotor
   1        Sensorde distancia ultrasonico (4 pines)
+
+  Aclaro que el codigo no es mio, creditos a quien corresponda
